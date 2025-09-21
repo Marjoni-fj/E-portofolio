@@ -1,45 +1,86 @@
+/* Generelt */
 body {
-    font-family: Arial, sans-serif;
-    background: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f4f7fa;
     color: #333;
-    max-width: 900px;
-    margin: 0 auto;
+    max-width: 1000px;
+    margin: auto;
     padding: 2rem;
     line-height: 1.6;
 }
 
-header {
+/* Header */
+.intro-header {
     text-align: center;
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
 }
 
 .profile-img {
-    width: 150px;
+    width: 160px;
     border-radius: 50%;
+    border: 4px solid #0d6efd;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     margin-bottom: 1rem;
 }
 
-h1 { font-size: 2.5rem; margin-bottom: 0.2rem; }
-h2 { border-bottom: 2px solid #0d6efd; padding-bottom: 0.3rem; margin-top: 2rem; }
-
-.project-card {
-    background: #fff;
-    padding: 1rem;
-    margin-bottom: 1rem;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    transition: transform 0.2s;
+h1 {
+    font-size: 3rem;
+    margin-bottom: 0.3rem;
+    color: #0d6efd;
 }
 
-.project-card:hover { transform: scale(1.02); }
+.subtitle {
+    font-size: 1.3rem;
+    color: #555;
+}
 
-a { color: #0d6efd; text-decoration: none; }
-a:hover { text-decoration: underline; }
+.goal {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #0d6efd;
+}
 
+/* Seksjoner */
 section {
     background: #fff;
+    padding: 2rem;
+    border-radius: 12px;
+    margin-bottom: 2.5rem;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.05);
+}
+
+/* Prosjekter og refleksjoner */
+.project-card, .reflection-card {
+    background: #f8f9ff;
     padding: 1.5rem;
     border-radius: 10px;
-    margin-bottom: 2rem;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    transition: transform 0.25s, box-shadow 0.25s;
+}
+
+.project-card:hover, .reflection-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+}
+
+.project-card h3, .reflection-card h3 {
+    margin-top: 0;
+    color: #0d6efd;
+}
+
+/* Lenker */
+a {
+    color: #0d6efd;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Kontakt */
+.contact a {
+    color: #0d6efd;
 }
