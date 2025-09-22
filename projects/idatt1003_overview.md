@@ -1,6 +1,7 @@
+<link rel="stylesheet" href="../assets/style.css">
+
 # 🖥️ IDATT1003 – Programmeringsøvinger
 
-<link rel="stylesheet" href="../assets/style.css">
 
 <div class="page-intro">
   <p>Dette prosjektet samler mine øvinger fra **IDATT1003 – Programmering 1** ved NTNU.  
