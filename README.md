@@ -68,5 +68,5 @@ Her finner du:
 ---
 
 <footer align="center">
-  <sub>© 2025 [Ditt Navn] – E-portefølje laget med GitHub Pages</sub>
+  <sub>© 2025 Fredrik Jonathan Marjoni – E-portefølje laget med GitHub Pages</sub>
 </footer>
