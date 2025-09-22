@@ -17,7 +17,7 @@
 
 ## 📖 Om porteføljen
 Her finner du:
-- Prosjekter (LEGO og IDATT1003 programmeringsøvinger)  
+- Prosjekter  
 - Refleksjoner rundt faglig og personlig læring  
 - Dokumentasjon, kode og bilder fra arbeidet  
 
