@@ -60,7 +60,7 @@ Her finner du:
 [![E-post](https://img.shields.io/badge/Email-din.email%40example.com-red?style=flat&logo=gmail)](mailto:din.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brukernavn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/brukernavn)
 [![GitHub](https://img.shields.io/badge/GitHub-Marjoni--fj-black?style=flat&logo=github)](https://github.com/Marjoni-fj)
-[![Instagram](https://img.shields.io/badge/Instagram-brukernavn-pink?style=flat&logo=instagram)](https://instagram.com/brukernavn)
+[![Instagram](https://img.shields.io/badge/Instagram-fj_marjoni-pink?style=flat&logo=instagram)](https://www.instagram.com/fj_marjoni/)
 
 </div>
 
