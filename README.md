@@ -26,7 +26,7 @@
   <div class="project-card">
     <h3>Programmeringsøvinger (IDATT1003)</h3>
     <p>Mine programmeringsoppgaver fra emnet IDATT1003.</p>
-    <a href="https://github.com/[brukernavn]/IDATT1003-ovinger">Se repo med øvinger</a>
+    <a href="https://github.com/Marjoni-fj/IDATT1003-ovinger">Se repo med øvinger</a>
   </div>
 
 </section>
