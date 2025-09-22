@@ -58,7 +58,7 @@ Her finner du:
 <div align="center">
 
 [![E-post](https://img.shields.io/badge/Email-din.email%40example.com-red?style=flat&logo=gmail)](mailto:din.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brukernavn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/brukernavn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fredrik-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fredrik-jonathan-marjoni-b6a649322/)
 [![GitHub](https://img.shields.io/badge/GitHub-Marjoni--fj-black?style=flat&logo=github)](https://github.com/Marjoni-fj)
 [![Instagram](https://img.shields.io/badge/Instagram-fj_marjoni-pink?style=flat&logo=instagram)](https://www.instagram.com/fj_marjoni/)
 
