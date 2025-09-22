@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="assets/profile.jpg" alt="Profilbilde" width="180" style="border-radius:50%; border: 3px solid #ccc;">
+  <img src="assets/profile.jpg" alt="Profilbilde" width="180" style="border-radius:50%; border: 3px solid #ccc;"> 
 
   ## Hei! Jeg heter **[Ditt Navn]**
   🎓 (BIDATA) student @ NTNU
