@@ -1,4 +1,6 @@
-/* Generelt */
+/* =========================================
+   GENERELL STYLING
+   ========================================= */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: #f4f7fa;
@@ -9,24 +11,25 @@ body {
     line-height: 1.6;
 }
 
-/* Header */
+h1, h2, h3, h4 {
+    margin-top: 0;
+    color: #0d6efd;
+}
+
+/* =========================================
+   HEADER / HERO / PROFILBILDE
+   ========================================= */
 .intro-header {
     text-align: center;
     margin-bottom: 3rem;
 }
 
 .profile-img {
-    width: 160px;
+    width: 180px;
     border-radius: 50%;
     border: 4px solid #0d6efd;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     margin-bottom: 1rem;
-}
-
-h1 {
-    font-size: 3rem;
-    margin-bottom: 0.3rem;
-    color: #0d6efd;
 }
 
 .subtitle {
@@ -40,7 +43,9 @@ h1 {
     color: #0d6efd;
 }
 
-/* Seksjoner */
+/* =========================================
+   SEKSJONER
+   ========================================= */
 section {
     background: #fff;
     padding: 2rem;
@@ -49,11 +54,13 @@ section {
     box-shadow: 0 6px 15px rgba(0,0,0,0.05);
 }
 
-/* Prosjekter og refleksjoner */
+/* =========================================
+   PROSJEKTER OG REFLEKSJONER
+   ========================================= */
 .project-card, .reflection-card {
     background: #f8f9ff;
     padding: 1.5rem;
-    border-radius: 10px;
+    border-radius: 12px;
     margin-bottom: 1.5rem;
     box-shadow: 0 4px 12px rgba(0,0,0,0.08);
     transition: transform 0.25s, box-shadow 0.25s;
@@ -69,7 +76,65 @@ section {
     color: #0d6efd;
 }
 
-/* Lenker */
+/* =========================================
+   ØVINGER – KORT-LAYOUT
+   ========================================= */
+.exercise-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.exercise-card {
+    background-color: #ffffff;
+    padding: 1rem 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.exercise-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
+
+.exercise-card h4 {
+    margin-top: 0;
+    color: #333;
+}
+
+.exercise-card p {
+    color: #555;
+    font-size: 0.95rem;
+}
+
+/* =========================================
+   TABELL
+   ========================================= */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+}
+
+table th, table td {
+    padding: 0.75rem 1rem;
+    border: 1px solid #ddd;
+}
+
+table th {
+    background-color: #f5f5f5;
+    text-align: left;
+}
+
+table tr:hover {
+    background-color: #f0f8ff;
+}
+
+/* =========================================
+   LENKER
+   ========================================= */
 a {
     color: #0d6efd;
     text-decoration: none;
@@ -80,7 +145,26 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Kontakt */
+/* =========================================
+   KONTAKT INFO / BADGES
+   ========================================= */
 .contact a {
     color: #0d6efd;
 }
+
+/* =========================================
+   TILLEGGSSTYLING
+   ========================================= */
+.page-intro p {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    color: #555;
+}
+
+footer {
+    text-align: center;
+    margin-top: 3rem;
+    color: #888;
+    font-size: 0.85rem;
+}
+
