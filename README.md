@@ -4,12 +4,12 @@
 
 <div align="center">
 
-  <img src="assets/profile.jpg" alt="Profilbilde" width="180" style="border-radius:50%; border: 3px solid #ccc;"> 
+  <img src="assets/profile.jpeg" alt="Profilbilde" width="200" style="border-radius:50%; border: 3px solid #ccc;">
 
-  ## Hei! Jeg heter **[Ditt Navn]**
+  ## Hei! Jeg heter **Fredrik Jonathan Marjoni**
   🎓 (BIDATA) student @ NTNU
-  💡 Interesser: [legg inn interesser, f.eks. AI, webutvikling, robotikk]  
-  🚀 Målet mitt: Å jobbe innen **[drømmestilling / type bedrift]**
+  💡 Interesser: Teknologi, Kampsport, Reise  
+  🚀 Målet mitt: Å jobbe innen **Teknologi og virksomhet**
 
 </div>
 
@@ -57,10 +57,11 @@ Her finner du:
 
 <div align="center">
 
-[![E-post](https://img.shields.io/badge/Email-din.email%40example.com-red?style=flat&logo=gmail)](mailto:din.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fredrik-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fredrik-jonathan-marjoni-b6a649322/)
-[![GitHub](https://img.shields.io/badge/GitHub-Marjoni--fj-black?style=flat&logo=github)](https://github.com/Marjoni-fj)
-[![Instagram](https://img.shields.io/badge/Instagram-fj_marjoni-pink?style=flat&logo=instagram)](https://www.instagram.com/fj_marjoni/)
+[![E-post](https://img.shields.io/badge/E--post-marjonifredrik%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marjonifredrik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fredrik%20Jonathan%20Marjoni-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredrik-jonathan-marjoni-b6a649322/)
+[![GitHub](https://img.shields.io/badge/GitHub-Marjoni--fj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marjoni-fj)
+[![Instagram](https://img.shields.io/badge/Instagram-fj__marjoni-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fj_marjoni/)
+
 
 </div>
 
