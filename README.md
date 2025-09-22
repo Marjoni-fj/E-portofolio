@@ -37,7 +37,7 @@ Her finner du:
       <td width="50%">
         <h3>💻 Programmeringsøvinger (IDATT1003)</h3>
         <p>Mine programmeringsoppgaver i Python fra emnet IDATT1003.</p>
-        <a href="https://github.com/Marjoni-fj/IDATT1003-ovinger"><b>Se repo →</b></a>
+        <a href="projects/idatt1003_overview.md"><b>Se prosjekt →</b></a>
       </td>
     </tr>
   </table>
